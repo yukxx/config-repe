@@ -1,4 +1,4 @@
-evn: yukx23
+evn: yukx
 eureka:
   client:
     service-url:
