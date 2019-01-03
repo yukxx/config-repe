@@ -1,4 +1,4 @@
-evn: yukx
+evn: yukx2
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
