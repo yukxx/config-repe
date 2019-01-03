@@ -1,0 +1,14 @@
+evn: yukx
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: w178wwxteCJxmmnR
+    url: jdbc:mysql://115.159.194.243/for8j_aadai_180412?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    jpa:
+      show-sql: true
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
