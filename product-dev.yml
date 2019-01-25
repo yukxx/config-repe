@@ -2,7 +2,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
-    password: w178wwxteCJxmmnR
+    password: yukx
     url: jdbc:mysql://127.0.0.1/docker?useUnicode=true&characterEncoding=UTF-8&useSSL=false
     jpa:
       show-sql: true
